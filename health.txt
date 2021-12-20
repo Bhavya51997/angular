@@ -1,0 +1,8 @@
+Health Tracker
+
+I have develpoed health tracker application.
+
+1 - The inputs taken are : Name, Age, Sex, Weight, Height
+2 - The input steps has converted into kms, minutes to hours.
+3 - We have taken number of days of workout data and displayed it.
+4 - Finally calculated fastest speed, longest distance, slowest speed, shortest distance and weekly average speed and distance. and displayed it on the screen.

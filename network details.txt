@@ -1,0 +1,52 @@
+Microsoft Windows [Version 10.0.19042.1288]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\bbhavya>ipconfig /all
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : lptw-bbhavya
+   Primary Dns Suffix  . . . . . . . : palyam.zeomega.loc
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : palyam.zeomega.loc
+                                       zeomega.loc
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : palyam.zeomega.loc
+   Description . . . . . . . . . . . : Realtek PCIe GbE Family Controller
+   Physical Address. . . . . . . . . : 8C-8C-AA-C3-E2-B5
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Physical Address. . . . . . . . . : D8-F8-83-9C-9A-29
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Bluetooth Device (Personal Area Network)
+   Physical Address. . . . . . . . . : D8-F8-83-9C-9A-2C
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Wi-Fi:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Intel(R) Wi-Fi 6 AX201 160MHz
+   Physical Address. . . . . . . . . : D8-F8-83-9C-9A-28
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+C:\Users\bbhavya>

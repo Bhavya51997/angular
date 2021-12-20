@@ -1,0 +1,73 @@
+[17:34] Mirunalini Ravichandran
+import datetime
+
+
+def new_user():
+    name = input("Name>>"))
+    age = int(input("Age>>"))
+    sex = input("Sex>>")
+    weight = int(input("Weight>>"))
+    height = int(input("Height>>"))
+    print(F"Hello {name}")
+    day = int(input("Day"))
+    
+    for i in range(1, day):
+        steps = int(input("Steps")
+        hr = int(input("hr>>"))
+        mn = int(input("mn>>"))
+        sc = int(input("sc>>"))
+        tim = datetime.time(hr, mn, sc)
+        print(day, steps, tim.hour,':',tim.minute,':', tim.second)
+        distance = 0.725 * steps
+        distance+ = distance
+    avg = distance / day
+    print("Weekly Average :"
+    bmi = weight/height
+    if bmi < 18.5:
+        print(F"Your BMI is: {bmi}. Try to put on some weight!!")
+    elif bmi > 25.0:
+        print(F"Your BMI is: {bmi}. Try to loose on some weight!!")
+    else:
+        print(F"Your BMI is: {bmi}. You're Healthy!!")
+
+
+new_user()
+
+import datetime
+
+def new_user():
+    name = input("Name>>")
+    age = int(input("Age>>"))
+    sex = input("Sex>>")
+    weight = int(input("Weight>>"))
+    height = int(input("Height>>"))
+    print(F"Hello {name}")
+    day = int(input("Day"))
+    distance = 0
+
+    for i in range(day):
+        steps = int(input("Steps"))
+        hr = int(input("hr>>"))
+        mn = int(input("mn>>"))
+        sc = int(input("sc>>"))
+        tim = datetime.time(hr, mn, sc)
+        print(day, steps, tim.hour, ':', tim.minute, ':', tim.second)
+        distance = 0.725 * steps
+        print(distance)
+        distance+= distance
+        print(distance)
+        print(i)
+        print(day)
+    avg= (distance/(day))
+    print("Weekly Average :",avg)
+    bmi = weight/height
+    if bmi < 18.5:
+        print(F"Your BMI is: {bmi}. Try to put on some weight!!")
+    elif bmi > 25.0:
+         print(F"Your BMI is: {bmi}. Try to loose on some weight!!")
+    else:
+         print(F"Your BMI is: {bmi}. You're Healthy!!")
+
+
+
+

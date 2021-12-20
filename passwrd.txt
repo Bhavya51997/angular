@@ -1,0 +1,15 @@
+password = input("Enter your password")
+old_password = []
+if password not in old_password:
+   old_password.append(password)
+if pattern = "[a-zA-Z0-9]+@[a-zA-Z]+\.(com|edu|net)"
+
+def steps_to_miles():
+    steps = input();
+    mile = steps / 2000
+    return mile
+
+
+
+
+   

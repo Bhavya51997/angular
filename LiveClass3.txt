@@ -1,0 +1,14 @@
+10/11/2021
+
+course = "Python for for beginners"
+course.replace("for", "to", 2).replace("to", "for", 1)
+
+if you want to convert int to bin
+q = "1000"
+int(q, 2)
+
+List, Tuple, Dict, Set :
+
+
+
+

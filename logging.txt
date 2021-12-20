@@ -1,0 +1,10 @@
+logging.basicConfig(filename="log3.log", level=logging.INFO,
+                    format="%(asctime)s:%(levelname)s:%(message)s")
+
+patient_name = input("Enter the patient name: ")
+patient_list = []
+if patient_name not in patient_list:
+   patient_list.add(patient_name)
+
+
+

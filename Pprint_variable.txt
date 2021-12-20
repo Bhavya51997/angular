@@ -1,0 +1,8 @@
+print("Welcome to", end=" ")
+print("the session")
+
+o/p : Welcome to the session
+
+Assigning values to variables:
+a, b = 25, 30
+swap : a, b = b, a

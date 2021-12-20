@@ -1,0 +1,4 @@
+https://www.jetbrains.com/pycharm/download/#section=windows
+
+C:\Users\Lekhzan\AppData\Local\Programs\Python\pthon 3.6 - to go to pertcular module of python(3.6) and open cmd there and work
+cd ...>toopen jupyter notebook> Jupyter notebook

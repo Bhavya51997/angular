@@ -1,0 +1,29 @@
+create angular app- ng new myapp
+move to the folder- cd myapp
+execute ng serve-- check output-- localhost:4200
+edit app.component.ts --- just add heading
+and check the reflected output
+execute command from another cmd
+ng generate library my-lib
+check new project folder created in your applicatio
+(this is the module which we have created named my-lib)
+default module is app and this which we have created
+
+
+image1="./assets/images/s11.jpg";
+  h="150";
+  w="350";
+
+<img [src]="s11.jpg" [height]="h" [width]="w">
+
+
+
+<h1>Two Way Binding</h1>
+<hr>
+<input [(ngModel)]="name">
+<h4>My name is {{name}}</h4
+
+
+
+
+name="Bhavya";

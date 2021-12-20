@@ -1,0 +1,10 @@
+from Sonam Trainer to All Participants:
+npm install
+from Sonam Trainer to All Participants:
+npm install -g typescript
+from Sonam Trainer to All Participants:
+npm install -g @angular/cli
+from kakshita@zeomega.com to All Participants:
+ok mam
+from Sonam Trainer to All Participants:
+npm install -g typescript
